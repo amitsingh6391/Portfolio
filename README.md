@@ -1,4 +1,4 @@
-# portfolio is a flutter web app in which is very helpful for your placement session
+# portfolio is a flutter web app  which is very helpful for your placement session
 
 A new Flutter project.
 
