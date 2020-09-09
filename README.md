@@ -1,6 +1,8 @@
 # portfolio is a flutter web app  which is very helpful for your placement session
 
-A new Flutter project.
+U can chek the demo of my portfolio app which host using 
+Firebase 👇👇
+https://amitsingh-396e4.web.app/
 
 ## Getting Started
 
