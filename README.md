@@ -1,5 +1,5 @@
-#My Personal Portfolio
-### This portfolio app consist all the works done by me and my projects ,educations these all things are mention in this website 
+
+### A simple portfolio website
 
 U can chek the demo of my portfolio app which host using 
 Firebase 👇👇
